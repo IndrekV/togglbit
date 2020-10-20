@@ -9,9 +9,9 @@
       "access_internet"
     ],
     "buildTargets": [
-      "higgs",
-      "meson",
-      "gemini"
+      
+      "atlas",
+      "vulcan"
     ],
     "i18n": {
       "en": {
@@ -20,12 +20,12 @@
     },
     "defaultLanguage": "en-US"
   },
-  "devDependencies": {
-    "@fitbit/sdk": "~4.0.0"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "@fitbit/sdk-cli": "^1.7.0",
-    "fp-ts": "^2.0.5"
+    "@fitbit/sdk": "^5.0.1",
+    "@fitbit/sdk-cli": "^1.7.3",
+    "fp-ts": "^2.8.2",
+    "io-ts": "^2.2.10"
   },
   "scripts": {
     "build": "fitbit-build"
