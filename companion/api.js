@@ -6,7 +6,7 @@ export function API(apiKey) {
 let ApiUrl = "https://toggl.com/api/v8";
 let ApiUrlV9 = "https://toggl.com/api/v9";
 let UserData;
-let CreatedWith = "Tracks-1.0.5";
+let CreatedWith = "Tracks-1.0.6";
 let credentials;
 let entryDescription = "";
 let base64 = new Base64();
