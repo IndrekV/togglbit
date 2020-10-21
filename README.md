@@ -25,7 +25,7 @@
 
 # Download
 
-Version for newer Fitbits (Versa 3 and Sense). Get it from Fitbit Gallery <a href="https://gallery.fitbit.com/details/70dfd461-bbb7-42a6-968f-1a5a72076eb8">here</a>.
+Version for newer Fitbits (Versa 3 and Sense). Get it from Fitbit Gallery <a href="https://gallery.fitbit.com/details/e9a744a6-414d-4976-9823-6ddb484ac3ae">here</a>.
 
 Version for older Fitbits with app name Togglbit. Get it from Fitbit Gallery <a href="https://gallery.fitbit.com/details/70dfd461-bbb7-42a6-968f-1a5a72076eb8">here</a>.
 
