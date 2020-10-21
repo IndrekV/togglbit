@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://toggl.com"><img src="https://toggl.com/site/images/media-toolkit/logo_02-644bd26148b73c19d9c91e5baecd8e31.jpg" alt="Toggl" width="200"></a>
+  <a href="https://toggl.com">Tracks</a>
 </h1>
 
-<h4 align="center">Simple Fitbit app for the leading time tracking tool <a href="https://toggl.com" target="_blank">Toggl</a>.</h4>
+<h4 align="center">(Unofficial) Simple Fitbit app for <a href="https://toggl.com" target="_blank">Toggl Track</a>.</h4>
 
 
 <p align="center">
@@ -13,19 +13,21 @@
 
 # About
 
-  **TogglBit** is a Toggl time tracking client for the smartwatch Fitbit. It holds only the most simple functionality and let's the user start and stop time entries fast from their wrist.
+  **Tracks** is a time tracking client for the smartwatch Fitbit. It holds only the most simple functionality and let's the user start and stop time entries fast from their wrist.
 
 <br/>
 <br/>
 <br/>
-<img src="fitbit_screens_880.png" alt="TogglBit">
+<img src="fitbit_screens_880.png" alt="Tracks">
 <br/>
 <br/>
 <br/>
 
 # Download
 
-TogglBit is currently in Alpha state and is not officially maintained by Toggl. It is available in the Fitbit Gallery. Get it <a href="https://gallery.fitbit.com/details/70dfd461-bbb7-42a6-968f-1a5a72076eb8">here</a>.
+Version for newer Fitbits (Versa 3 and Sense). Get it from Fitbit Gallery <a href="https://gallery.fitbit.com/details/70dfd461-bbb7-42a6-968f-1a5a72076eb8">here</a>.
+
+Version for older Fitbits with app name Togglbit. Get it from Fitbit Gallery <a href="https://gallery.fitbit.com/details/70dfd461-bbb7-42a6-968f-1a5a72076eb8">here</a>.
 
 # Build
 
@@ -63,3 +65,6 @@ npm add --dev @fitbit/sdk-cli
 - Execute `npx fitbit` to jump into Fitbit console _(It will ask you to log in to your fitbit account if you are not logged in)_
 - Execute `build-and-install` in Fitbit console to build and run the app.
 
+## Origins
+
+Originally created by Indrek Vändrik in 1 week during a Go Loco Week at Toggl. The original repo is at https://github.com/toggl/togglbit

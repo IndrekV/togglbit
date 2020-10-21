@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "70dfd461-bbb7-42a6-968f-1a5a72076eb8",
     "appType": "app",
-    "appDisplayName": "TogglBit",
+    "appDisplayName": "Tracks",
     "iconFile": "resources/icon.png",
     "wipeColor": "#03a9f4",
     "requestedPermissions": [
@@ -14,7 +14,7 @@
     ],
     "i18n": {
       "en": {
-        "name": "TogglBit"
+        "name": "Tracks"
       }
     },
     "defaultLanguage": "en-US"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/toggl/togglbit.git"
+    "url": "git@github.com:IndrekV/tracks.git"
   },
   "license": "BSD-3-Clause"
 }
