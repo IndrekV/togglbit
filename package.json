@@ -1,6 +1,5 @@
 {
   "fitbit": {
-    "appUUID": "70dfd461-bbb7-42a6-968f-1a5a72076eb8",
     "appType": "app",
     "appDisplayName": "Tracks",
     "iconFile": "resources/icon.png",
@@ -17,7 +16,8 @@
         "name": "Tracks"
       }
     },
-    "defaultLanguage": "en-US"
+    "defaultLanguage": "en-US",
+    "appUUID": "e9a744a6-414d-4976-9823-6ddb484ac3ae"
   },
   "devDependencies": {},
   "dependencies": {
