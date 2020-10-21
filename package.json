@@ -9,7 +9,6 @@
       "access_internet"
     ],
     "buildTargets": [
-      
       "atlas",
       "vulcan"
     ],

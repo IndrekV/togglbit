@@ -43,10 +43,10 @@
   </symbol>
 
 
-  <use id="views" href="#panoramaview">
+  <use id="views" href="#scrollview">
 
     <!-- MAIN VIEW -->
-    <use id="item1" href="#panoramaview-item">
+    <use id="item1" href="#scrollview-item">
       <svg class="screen">
 
         <!-- Main View - Header -->
@@ -89,7 +89,7 @@
     </use>
 
     <!-- RECENT ENTRIES VIEW -->
-    <use id="item2" href="#panoramaview-item">
+    <use id="item2" href="#scrollview-item">
 
       <use id="entries-list" href="#tile-list" height="100%" width="100%" y="0">
         <use href="#tile-list-header" class="item-header">
@@ -131,7 +131,7 @@
     </use>
 
     <!-- SUMMARY VIEW -->
-    <use id="item3" href="#panoramaview-item">
+    <use id="item3" href="#scrollview-item">
       <section x="0" y="0" height="100%" width="50%">
         <text id="today-total-label" class="total-text">Today</text>
         <text id="today-total" class="total-time" />
@@ -149,16 +149,6 @@
         <use href="#pie" class="total-pie-week"/>
         <use href="#pie" class="total-pie-week"/>
       </section>
-    </use>
-
-    <!-- Have enough pagination dots for your slides (extras are hidden) -->
-    <use id="pagination-dots" href="#pagination-widget" y="8">
-      <use href="#pagination-dot" />
-      <use href="#pagination-dot" />
-      <use href="#pagination-dot" />
-      <use href="#pagination-dot" />
-      <use href="#pagination-dot" />
-      <use href="#pagination-highlight-dot" />
     </use>
   </use>
 </svg>
