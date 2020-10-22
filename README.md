@@ -8,7 +8,8 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#download">Download</a> •
-  <a href="#build">Build</a>
+  <a href="#build">Build</a> •
+  <a href="#origins">Origins</a>
 </p>
 
 # About
@@ -67,4 +68,5 @@ npm add --dev @fitbit/sdk-cli
 
 ## Origins
 
-Originally created by Indrek Vändrik in 1 week during a Go Loco Week at Toggl. The original repo is at https://github.com/toggl/togglbit
+Originally created by Indrek Vändrik in 1 week during a Go Loco Week at Toggl - <a href="https://toggl.com/blog/the-desktop-teams-go-loco-week">Blog post about Go Loco Week</a>.
+The original repo is at https://github.com/toggl/togglbit
